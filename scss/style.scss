@@ -755,7 +755,7 @@ img {
                         max-width: 25%;
                         h5 {
                             font-size: 16px;
-                            color: #252525;
+                            color: black;
                             @media #{$breakpoint-lg} {
                                 font-size: 14px;
                             }
@@ -1352,7 +1352,7 @@ img {
 .footer_area {
     position: relative;
     z-index: 1;
-    background-color: #252525;
+    background-color: black;
     padding: 80px 0;
     .single_widget_area {
         .copywrite {
